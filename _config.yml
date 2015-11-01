@@ -1,8 +1,23 @@
+name: SiJohnsPhotografic
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.1829787
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5893617
+  brandColors: []
+  brandStrength: 0.6875
   lightness: 0.9021277
-  brandStrength: 0.6553965
+  saturation: 0.5893617
   rhythmicContrast: 0.612766
-name: SiJohnsPhotografic
+purpose: []
